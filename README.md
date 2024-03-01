@@ -9,4 +9,3 @@ Wed-Lock Master is basically a Matrimonial Software project which comes with var
 7. Admin Panel for smooth operation.
 8. Ensures seamless, secure experience.
 
-![image](https://github.com/Montasir-Rishad/Wed-Lock-Master-010324/assets/53003650/cfa4a7cf-569d-4816-9818-661f60c45210)
